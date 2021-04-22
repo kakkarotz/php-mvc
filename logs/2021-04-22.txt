@@ -1,0 +1,24 @@
+[22-Apr-2021 18:52:36 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 C:\xampp\htdocs\php-mvc\public\index.php(75): Core\Router->dispatch('products')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\php-mvc\Core\Router.php' on line 123
+[22-Apr-2021 18:52:37 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 C:\xampp\htdocs\php-mvc\public\index.php(75): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\php-mvc\Core\Router.php' on line 123
+[22-Apr-2021 19:03:55 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\php-mvc\public\index.php(75): Core\Router->dispatch('products')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\php-mvc\Core\Router.php' on line 123
+[22-Apr-2021 19:03:55 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\php-mvc\public\index.php(75): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\php-mvc\Core\Router.php' on line 123
+[22-Apr-2021 19:11:32 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\php-mvc\public\index.php(75): Core\Router->dispatch('products')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\php-mvc\Core\Router.php' on line 123
+[22-Apr-2021 19:11:48 Europe/Berlin] Uncaught exception: 'Exception' with message 'Controller class App\Controller\Hbm not found'
+Stack trace: #0 C:\xampp\htdocs\php-mvc\public\index.php(75): Core\Router->dispatch('hbm/ui')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\php-mvc\Core\Router.php' on line 119
